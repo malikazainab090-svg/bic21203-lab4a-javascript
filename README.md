@@ -14,28 +14,21 @@ This repository contains the solutions for **Lab #4a** covering DOM element sele
    - **Q2:** Enter test values (`5`, `10`, `15`, `10.5`, `abc`, and empty/whitespace input) and click **Check**.
    - **Q3:** Click **Generate** to display `"The number is 1"` through `"The number is 5"`, and click again to verify no duplicate items are added.
 
-## Repository Structure
+## Screenshots & Evidence
 
-```text
-bic21203-lab4a-javascript/
-├── Q1/
-│   ├── index.html
-│   ├── script.js
-│   ├── Q1(HTML).png
-│   ├── Q1(script).png
-│   ├── Q1(output).png
-│   └── q1(output2).png
-├── Q2/
-│   ├── index.html
-│   ├── script.js
-│   ├── q2(output1).png
-│   ├── q2(output2).png
-│   ├── q2(output3).png
-│   ├── q2(output4).png
-│   └── q2(output5).png
-├── Q3/
-│   ├── index.html
-│   ├── script.js
-│   ├── q3(output1).png
-│   └── q3(output2).png
-└── README.md
+### Question 1 — Interactive Text Changer
+<img src="Q1/Q1(HTML).png" alt="Q1 HTML Code" width="700" />
+<img src="Q1/Q1(script).png" alt="Q1 JavaScript Code" width="700" />
+<img src="Q1/Q1(output).png" alt="Q1 Initial Output" width="700" />
+<img src="Q1/q1(output2).png" alt="Q1 After Click Output" width="700" />
+
+### Question 2 — Smart Number Validator
+<img src="Q2/q2(output1).png" alt="Q2 Invalid Text Input" width="700" />
+<img src="Q2/q2(output2).png" alt="Q2 Number Higher Than 10" width="700" />
+<img src="Q2/q2(output3).png" alt="Q2 Empty Input" width="700" />
+<img src="Q2/q2(output4).png" alt="Q2 Number Lower Than 10" width="700" />
+<img src="Q2/q2(output5).png" alt="Q2 Number Equal to 10" width="700" />
+
+### Question 3 — Dynamic Number Generator
+<img src="Q3/q3(output1).png" alt="Q3 Initial Output" width="700" />
+<img src="Q3/q3(output2).png" alt="Q3 Generated List Output" width="700" />
