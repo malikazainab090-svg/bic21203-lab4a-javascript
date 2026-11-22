@@ -1,7 +1,7 @@
 # BIC21203 - Lab #4a: Client-Side Scripting (JavaScript)
 
 - **Name:** MALIKA ZAINAB
-- **Student / Matric ID:** A25005
+- **Student / Matric ID:** AI250005
 
 ## Overview
 This repository contains the solutions for **Lab #4a** covering DOM element selection, `addEventListener()` event handling, input validation with `if...else if...else`, safe text updates via `textContent`, and dynamic list generation using a `for` loop and `document.createElement()`.
