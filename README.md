@@ -14,5 +14,28 @@ This repository contains the solutions for **Lab #4a** covering DOM element sele
    - **Q2:** Enter test values (`5`, `10`, `15`, `10.5`, `abc`, and empty/whitespace input) and click **Check**.
    - **Q3:** Click **Generate** to display `"The number is 1"` through `"The number is 5"`, and click again to verify no duplicate items are added.
 
-## Output Screenshots
-Browser output screenshots for Q1, Q2, and Q3 are included in the submission report and/or repository images folder.
+## Repository Structure
+
+```text
+bic21203-lab4a-javascript/
+├── Q1/
+│   ├── index.html
+│   ├── script.js
+│   ├── Q1(HTML).png
+│   ├── Q1(script).png
+│   ├── Q1(output).png
+│   └── q1(output2).png
+├── Q2/
+│   ├── index.html
+│   ├── script.js
+│   ├── q2(output1).png
+│   ├── q2(output2).png
+│   ├── q2(output3).png
+│   ├── q2(output4).png
+│   └── q2(output5).png
+├── Q3/
+│   ├── index.html
+│   ├── script.js
+│   ├── q3(output1).png
+│   └── q3(output2).png
+└── README.md
